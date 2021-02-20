@@ -22,3 +22,5 @@ Run directory -> npm start
 Run client -> npm start
 
 Server at localhost:5000 and client at localhost:3000
+
+Checkout the deploy site: https://romantic-engelbart-c29c01.netlify.app/
